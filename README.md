@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jianc0041/project-name-cj/_apis/build/status%2FJiancao164.pipelines-java?branchName=main)](https://dev.azure.com/jianc0041/project-name-cj/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
